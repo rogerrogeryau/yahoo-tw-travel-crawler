@@ -1,0 +1,188 @@
+1531968723336	geckodriver	INFO	geckodriver 0.21.0
+1531968723340	geckodriver	INFO	Listening on 127.0.0.1:56809
+1531968724405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.np59NTMFlJVF"
+1531968727672	Marionette	INFO	Listening on port 43409
+1531968727726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531968861817	geckodriver	INFO	geckodriver 0.21.0
+1531968861821	geckodriver	INFO	Listening on 127.0.0.1:56545
+1531968862836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3CNDfdW74WBb"
+1531968865700	Marionette	INFO	Listening on port 32773
+1531968865790	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531968895515	geckodriver	INFO	geckodriver 0.21.0
+1531968895523	geckodriver	INFO	Listening on 127.0.0.1:60295
+1531968896538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZqCF7LH9xCM2"
+1531968900420	Marionette	INFO	Listening on port 36677
+1531968900479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.yap.yahoo.com/nosdk/wj/v1/getAds.do?locale=en_us&agentVersion=205&adTrackingEnabled=true&adUnitCode=8579a3a6-3249-4b73-87c4-5c5303dccb4c&apiKey=GH39CB7Y4QTFF4QHXM28&gdpr=&euconsent=&publisherUrl=https%3A%2F%2Ftw.yahoo.com&cb=JSONPCallback0, line 1: SyntaxError: "" string literal contains an unescaped line break
+[Parent 25107, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531969249697	geckodriver	INFO	geckodriver 0.21.0
+1531969249701	geckodriver	INFO	Listening on 127.0.0.1:40365
+1531969250700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UA5LVTTGoCaI"
+1531969253671	Marionette	INFO	Listening on port 37349
+1531969253813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531969314502	geckodriver	INFO	geckodriver 0.21.0
+1531969314506	geckodriver	INFO	Listening on 127.0.0.1:38031
+1531969315506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rTTun4ZNQd67"
+1531969318837	Marionette	INFO	Listening on port 42253
+1531969318935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531969547497	geckodriver	INFO	geckodriver 0.21.0
+1531969547501	geckodriver	INFO	Listening on 127.0.0.1:58771
+1531969548501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5FKOlao47jjo"
+1531969552697	Marionette	INFO	Listening on port 42519
+1531969552764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1531969676679	geckodriver	INFO	geckodriver 0.21.0
+1531969676683	geckodriver	INFO	Listening on 127.0.0.1:47343
+1531969677684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nxiXvKM4IWUL"
+1531969683452	Marionette	INFO	Listening on port 45697
+1531969683584	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 25694, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 25535, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 25381, Gecko_IOThread] WARNING: pipe error (53): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 25381, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531970412264	geckodriver	INFO	geckodriver 0.21.0
+1531970412288	geckodriver	INFO	Listening on 127.0.0.1:58337
+1531970413354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k3iNslIAe7Zm"
+1531970416836	Marionette	INFO	Listening on port 40175
+1531970416891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531970679953	geckodriver	INFO	geckodriver 0.21.0
+1531970679957	geckodriver	INFO	Listening on 127.0.0.1:41851
+1531970680973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uIWhMVHIkdtk"
+1531970684252	Marionette	INFO	Listening on port 38561
+1531970684325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531970754626	geckodriver	INFO	geckodriver 0.21.0
+1531970754631	geckodriver	INFO	Listening on 127.0.0.1:51245
+1531970755630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8zewIP1cV7SO"
+1531970759428	Marionette	INFO	Listening on port 38243
+1531970759503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-33865789-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-33865789-2, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-108517196-1, line 69: unreachable code after return statement
+1531970948344	geckodriver	INFO	geckodriver 0.21.0
+1531970948349	geckodriver	INFO	Listening on 127.0.0.1:57891
+1531970949353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KOGOFn0KY360"
+1531970957880	Marionette	INFO	Listening on port 35383
+1531970957947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://animate.adobe.com/runtime/6.0.0/edge.6.0.0.min.js, line 77: TypeError: C.getComputedStyle(...) is null
+[Parent 26592, Gecko_IOThread] WARNING: pipe error (210): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 26409, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531971069101	geckodriver	INFO	geckodriver 0.21.0
+1531971069106	geckodriver	INFO	Listening on 127.0.0.1:53577
+1531971070114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YKHDsNs4kEkv"
+1531971072767	Marionette	INFO	Listening on port 43117
+1531971072899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531971146011	geckodriver	INFO	geckodriver 0.21.0
+1531971146015	geckodriver	INFO	Listening on 127.0.0.1:50763
+1531971147015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.He3xRKTZ31lR"
+1531971153024	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+1531971154005	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/server.js :: set acceptConnections :: line 92"  data: no] Stack trace: set acceptConnections()@server.js:92
+start()@server.js:116
+init/<()@jar:file:///usr/lib/firefox/omni.ja!/components/marionette.js:442
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531971160378	geckodriver	INFO	geckodriver 0.21.0
+1531971160382	geckodriver	INFO	Listening on 127.0.0.1:38607
+1531971161382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tCDG8ERY7P1C"
+1531971164063	Marionette	INFO	Listening on port 39969
+1531971164120	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27334, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531971271015	geckodriver	INFO	geckodriver 0.21.0
+1531971271019	geckodriver	INFO	Listening on 127.0.0.1:41267
+1531971272041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E9139Tspfd93"
+1531971274722	Marionette	INFO	Listening on port 42383
+1531971274767	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27524, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531971390848	geckodriver	INFO	geckodriver 0.21.0
+1531971390852	geckodriver	INFO	Listening on 127.0.0.1:56577
+1531971391852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Z0V6bz1n88tF"
+1531971394673	Marionette	INFO	Listening on port 44483
+1531971394812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 27682, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531971595556	geckodriver	INFO	geckodriver 0.21.0
+1531971595560	geckodriver	INFO	Listening on 127.0.0.1:59097
+1531971596560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z6n9lfdKCCen"
+1531971599485	Marionette	INFO	Listening on port 44617
+1531971599499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 27873, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531971732587	geckodriver	INFO	geckodriver 0.21.0
+1531971732591	geckodriver	INFO	Listening on 127.0.0.1:48983
+1531971733618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LO57NbJbqove"
+1531971736471	Marionette	INFO	Listening on port 40029
+1531971736553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+[Parent 28087, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 28087, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
